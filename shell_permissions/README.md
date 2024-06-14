@@ -12,3 +12,7 @@ Sets the mode of the file hello to -rwxr-x-wx.
 
 This script creates an empty file called `hello` in the current directory.
 
+## 4-empty
+
+This script creates an empty file called `hello` in the current directory.
+
