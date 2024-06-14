@@ -1,6 +1,3 @@
 # shell_permissions
-
-## 4-empty
-This script creates an empty file called `hello` in the current directory.
-# Shell Permissions Project
-This repository contains scripts to manage file permissions in a Linux environment.
+## 9-John_Doe
+Sets the mode of the file hello to -rwxr-x-wx.
